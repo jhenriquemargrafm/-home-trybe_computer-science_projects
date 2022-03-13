@@ -1,4 +1,4 @@
-# Projetos do módulo de Ciência da Computação na Trybe
+# Projetos do módulo de Ciência da Computação na Trybe 
 1.  Projeto - Job Insights<br>
 Habilidades Utilizadas
 - Utilizar o terminal interativo do Python.
